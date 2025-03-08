@@ -8,8 +8,8 @@
 #include "rk3399-opp.dtsi"
 
 / {
-	model = "Codinge Xiaobao NAS";
-	compatible = "codinge,xiaobao-nas", "rockchip,rk3399";
+	model = "CMCC HD9901";
+	compatible = "vamrs,rock960", "rockchip,rk3399";
 
 	aliases {
 		mmc0 = &sdmmc;
